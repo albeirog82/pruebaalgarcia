@@ -16,11 +16,16 @@ getCommon tiene como parametros los valores nodo1 y nodo2 los cuales son el valo
 
 Los siguientes son ejemplos de los recursos usados para hacer las pruebas segun el documento que se adjuntó 
 
-http://localhost:8080/create?values=70,84,85
-http://localhost:8080/create?values=70,84,78,80
-http://localhost:8080/create?values=70,84,78,76
-http://localhost:8080/create?values=70,49,54,51
-http://localhost:8080/create?values=70,49,37,40
+http://localhost:8080/create?values=70,84,85 
+
+http://localhost:8080/create?values=70,84,78,80 
+
+http://localhost:8080/create?values=70,84,78,76 
+
+http://localhost:8080/create?values=70,49,54,51 
+
+http://localhost:8080/create?values=70,49,37,40 
+
 http://localhost:8080/create?values=70,49,37,22
 
 http://localhost:8080/getCommon?nodo1=40&nodo2=78 
